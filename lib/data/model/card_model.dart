@@ -1,0 +1,1 @@
+class CardModel {  String? image;  String? name;  String? description;  int? price;  CardModel({this.image, this.name, this.description, this.price});}
